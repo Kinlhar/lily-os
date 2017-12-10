@@ -1,0 +1,1 @@
+C:\Users\sylva\AppData\Local\bin\NASM\nasm %1 -f bin -o %2
